@@ -22,5 +22,4 @@ tauri = { version = "2", features = [] }
 tauri-plugin-opener = "2"
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
-tauri-plugin-broadcast = {path = "D://pro/js/plugin-dev/tauri-plugin-broadcast"}
-tauri-plugin-sql = { version = "2", features = ["mysql"] }
+tauri-plugin-broadcast = "0.4.0"
